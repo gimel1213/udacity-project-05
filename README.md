@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/gimel1213/udacity-project-05.svg?style=svg)](https://circleci.com/gh/gimel1213/udacity-project-05)
 
 ## Project Overview
 
